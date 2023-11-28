@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Calculator for Investors/*
+!/Calculator for Investors/task/
+/Calculator for Investors/task/*
+!/Calculator for Investors/task/main.py
+!/Calculator for Investors/task/financial.csv
+!/Calculator for Investors/task/companies.csv
+!/Calculator for Investors/task/investor.db
+!/Calculator for Investors/task/test.py
